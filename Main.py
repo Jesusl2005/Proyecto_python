@@ -5,7 +5,6 @@ import pandas as pd
 import os
 
 def main():
-
     border_style = {
         "border_width": 2,
         "relief": tk.SOLID
